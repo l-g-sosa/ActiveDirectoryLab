@@ -6,7 +6,7 @@ as a client. Installed Active Directory, and a DHCP server on the Domain control
 <br />
 
 <h2>Objective</h2>
-The purpose of this initiative was to enhance my knowledge of Active Directoy, as well as Windows Server, and PowerShell. This lab will also be the starting point as other labs since I now have an environment in which I can learn more about cybersecurity and systems administration.
+The purpose of this initiative was to enhance my knowledge of Active Directoy, as well as Windows Server, and PowerShell. This lab will also be the starting point for other future labs as I now have an environment in which I can learn more about cybersecurity and systems administration.
 <br />
 
 <h2>Languages and Utilities Used</h2>
@@ -34,8 +34,6 @@ A DHCP server was installed using a scope of IPs.
 
 <img src="https://imgur.com/EniZ4VU.png" height="80%" width="80%"/>
 
-Active Directory at the end of the lab:
-<img src="https://imgur.com/a/MxWC9ic.png" height="80%" width="80%"/>
 <!--
  ```diff
 - text in red
