@@ -30,7 +30,7 @@ A DHCP server was installed using a scope of IPs.
 <img src="https://imgur.com/nP45N0A.png" height="80%" width="80%"/>
 
 
-1003 users were created in Active Directory using a PowerShell script (Thanks to Josh Madakor)
+1003 users were created in Active Directory using a PowerShell script (Script creator: [Josh Madakor](https://github.com/joshmadakor1/))
 
 <img src="https://imgur.com/EniZ4VU.png" height="80%" width="80%"/>
 
